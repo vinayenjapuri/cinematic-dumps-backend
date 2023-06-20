@@ -27,7 +27,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/vinayenjapuri/cinematic-dumps-backend.git"
+    "url": "https://gitlab.com/vinayenjapuri/cinematic-dumps-backend.git"
   },
   "author": "Vinay Enjapuri",
   "license": "ISC",
